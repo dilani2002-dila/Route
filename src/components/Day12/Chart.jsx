@@ -45,8 +45,8 @@ export default function SortandFilter(){
     ))}
         <button onClick={marksSortingAs}>marksAs</button>
         <button onClick={marksSortingDs}>marksDs</button>
-        <button onClick={departmentSortingAs}>Asdepartment</button>
-        <button onClick={departmentSortingDs}>Dsdepartment</button>
+        <button onClick={departmentSortingAs}>As department</button>
+        <button onClick={departmentSortingDs}>Ds department</button>
 </>
     );
 

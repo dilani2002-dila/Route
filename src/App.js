@@ -8,11 +8,13 @@ import React from 'react'
 // import About from './components/Day09/About'
 //  import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 
-import Filter from './components/Day12/Filter';
+// import Filter from './components/Day12/Filter';
+import Travel from './components/Day13/Travel';
 function App() {
 return (
 <>
-<Filter></Filter>
+<Travel></Travel>
+{/* <Filter></Filter> */}
 {/* <Chart></Chart> */}
 {/* <SortandFilter></SortandFilter> */}
 </>
